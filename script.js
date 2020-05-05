@@ -21,9 +21,9 @@ $(function () {
 
     var songs = [
         {
-            artist: "ZiWok",
-            name: "Là bạn không thể yêu (Cover)",
-            url: "Musics/LaBanKhongTheYeu.flac",
+            artist: "Kiên",
+            name: "Một ngày",
+            url: "Musics/MotNgay.mp3",
             picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
         }
     ];
